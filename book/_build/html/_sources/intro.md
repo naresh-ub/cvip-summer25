@@ -9,6 +9,20 @@
 - Lecture Timings: Tue/Thu - 10:30 AM to 11:50 AM EST
 ```
 
+## Graduate Teaching Award
+
+Glad to share that this Computer Vision course (Summer 2025) received the CSE "<a href="https://arc.net/l/fxgsjydt" target="_blank">Graduate Teaching Award<a>" at University at Buffalo, SUNY.
+
+```{figure} figures/naresh-grad-teaching-award.jpeg
+
+---
+width: 100%
+name: award-pic
+align: center
+---
+Graduate Teaching Award Recipient.
+```
+
 <!-- Welcome to CSE 4/573: CVIP course (Summer 2025). This website contains **_everything_ (all material)** for the course. To support engaging and interactive learning, this website is powered by [Jupyter Book](https://jupyterbook.org/) and the [TeachBooks](https://teachbooks.io/) package. The site hosts all course content in an accessible and interactive format, including self-hosted animated lecture slides via [Reveal.JS](https://revealjs.com/), executable live code blocks with [Thebe](https://github.com/executablebooks/thebe), rich 3D visualizations using [Plotly](https://plotly.com/python/), spaced-repetition flashcards through [JupyterCards](https://github.com/jmshea/jupytercards), and auto-graded practice quizzes via [Jupyter Quizzes](https://github.com/jmshea/jupyterquiz). This platform enhances student engagement by blending theory with hands-on experimentation directly in the browser. -->
 
 ## About the Course
